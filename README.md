@@ -9,10 +9,20 @@
 <br />
 <br />
 
+## Projects
+
+
+<br />
+<br />
+
 ## Side Projects
-|CherryPicker|
+### 1. Cherry Picker
+> **가격비교 & 순수평점**을 통한 고객의 합리적 소비
+
+**아이디어톤 1등🏆**
+
+|![cherrypicker](./sideProjects/cherrypicker/docs/presentation/all_images.gif)|
 |---|
-|![cherrypicker](./side%20projects/cherrypicker/docs/presentation/all_images.gif)|
 |https://github.com/user-attachments/assets/6a1ba8d6-182e-4d94-a27e-952007fa8417|
 
  
