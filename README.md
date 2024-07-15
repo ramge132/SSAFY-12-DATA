@@ -18,9 +18,8 @@
 
 **아이디어톤 1등🏆**
 
-|<img src="./sideProjects/cherrypicker/docs/presentation/all_images.gif" width="60%">|
-|---|
-|https://github.com/user-attachments/assets/6a1ba8d6-182e-4d94-a27e-952007fa8417|
+|<img src="./sideProjects/cherrypicker/docs/presentation/all_images.gif" width="10%">| 동영상 공간 |
+|---|---|
 
 <br />
 <br />
