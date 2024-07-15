@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/c1ea185f-4e8e-4ecf-9886-ea69beeb6dd0
 ![img](./docs/logo.png)
 ---
 # SSAFY 12기 데이터 트랙 👨‍💻
@@ -23,7 +21,7 @@ https://github.com/user-attachments/assets/c1ea185f-4e8e-4ecf-9886-ea69beeb6dd0
 |<img src="./sideProjects/cherrypicker/docs/presentation/all_images.gif" width="60%">|
 |---|
 |https://github.com/user-attachments/assets/e4e93a69-4103-46da-8032-04673fdf14ad|
-
+https://github.com/user-attachments/assets/e4e93a69-4103-46da-8032-04673fdf14ad
 <br />
 <br />
 <br />
