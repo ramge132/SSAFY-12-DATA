@@ -39,7 +39,7 @@
     <td align="center" width="50%">
         <img src="./sideProjects/cherrypicker/docs/presentation/all_images.gif" width="50%">
     </td>
-    <td align="center" width="50%">
+    <td align="left" width="50%">
         <video controls autoplay loop src="https://github.com/user-attachments/assets/befae84a-03cb-4c97-b20e-939cb0be74ff" width="100%" muted="false"></video>
         <div style="border: 2px solid #DE3163; padding: 15px; border-radius: 10px; background-color: #f9f9f9; margin-top: 20px; text-align: left;">
             <p style="font-size: 1.1em; color: #333; text-align: left;">
