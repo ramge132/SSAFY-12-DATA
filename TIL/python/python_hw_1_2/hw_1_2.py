@@ -9,3 +9,4 @@ fifth_word = password[365:371]
 
 print(f'{first_char} {second_word} {third_word} {forth_word} "{fifth_word}".')
 #print(f'{forth_word}')
+#test
