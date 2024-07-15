@@ -63,10 +63,6 @@ ${\textit{\textsf{\color{orangered}5점인데 왜 이렇게 맛없어?}}}$
 **${\textsf{\color{limegreen}크리에이터 챌린지 2등🏆}}$**   <br>   
 [**`플레이 하기`**](https://redbrick.land/detail-play?pid=af54812a-71e4-4667-b817-09c0d7ad15eb)
 
-`#자바스크립트` `#게임제작` `#레드브릭` `#크리에이터챌린지`
-
-
-<br />
 <br />
 
 ${\textit{\textsf{\color{limegreen}크리에이터 챌린지?}}}$
