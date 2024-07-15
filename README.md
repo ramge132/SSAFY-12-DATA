@@ -58,7 +58,6 @@
 <br />
 <br />
 <br />
-<br />
 
 ### <span style="color: #4CC764;">2. 지켜줘요! 동물의 숲🦊
 > **멸종 위기 동물들을 당신은 외울 수 있을 것인가..!**   
@@ -104,7 +103,7 @@
     </td>
 </tr>
 <tr>
-    <td align="center" width="100%">
+    <td align="center" width="90%">
         <div style="border: 2px solid #4CC764; padding: 15px; border-radius: 10px; background-color: #f9f9f9; margin-top: 20px; text-align: left;">
             <p style="font-size: 1.1em; color: #333;">
                 <strong>- 아이디어 및 SW구현 담당</strong> <br>
