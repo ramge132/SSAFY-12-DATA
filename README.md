@@ -13,7 +13,7 @@
 <br />
 
 ## Side Projects
-### ${\textbf{\textsf{\color{orangered}Cherry Picker🍒}}}$
+### ${\textbf{\textsf{\color{orangered}1. Cherry Picker🍒}}}$
 > **가격비교 & 순수평점**을 통한 고객의 합리적 소비   
 **${\textsf{\color{orangered}아이디어톤 1등🏆}}$**
 
@@ -62,9 +62,8 @@ ${\textit{\textsf{\color{orangered}5점인데 왜 이렇게 맛없어?}}}$
 <br />
 <br />
 <br />
-<br />
 
-### ${\textbf{\textsf{\color{yellowgreen}지켜줘요! 동물의 숲🦊}}}$
+### ${\textbf{\textsf{\color{yellowgreen}2. 지켜줘요! 동물의 숲🦊}}}$
 
 > **멸종 위기 동물들을 당신은 외울 수 있을 것인가..!**   
 **${\textsf{\color{yellowgreen}크리에이터 챌린지 2등🏆}}$**   <br>   
