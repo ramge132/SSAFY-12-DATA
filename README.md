@@ -13,9 +13,9 @@
 <br />
 
 ## Side Projects
-### <span style="color: #DE3163;">1. Cherry Picker🍒
+### ${\textsf{\color{orangered}Cherry Picker🍒}}$
 > **가격비교 & 순수평점**을 통한 고객의 합리적 소비   
-**<span style="color: #DE3163;">아이디어톤 1등🏆**
+**${\textsf{\color{orangered}아이디어톤 1등🏆}}$**
 
 <br />
 
@@ -23,14 +23,14 @@
 *어디가 제일 싸지?*
 
 - 배달 음식을 시킬 때, 여러 배달 앱을 기웃거리신 경험 있으신가요?   
-<span style="color: #DE3163;">CherryPicker</span>가 업체의 플랫폼별 **`가격`**, **`배달팁`**, **`구독시 가격`**, **`평점`** 등을 한 눈에 비교해드립니다!
+${\textsf{\color{orangered}CherryPicker}}$가 업체의 플랫폼별 **`가격`**, **`배달팁`**, **`구독시 가격`**, **`평점`** 등을 한 눈에 비교해드립니다!
 
 <br />
 
 *5점인데 왜 이렇게 맛없어?*
 
 - 리뷰이벤트로 인해 망가진 평점 시스템   
-<span style="color: #DE3163;">CherryPicker</span>만의 **`찐평점`** 을 통해 '협찬 평점' 아닌 '진짜 평점'을 확인하세요!
+${\textsf{\color{orangered}CherryPicker}}$만의 **`찐평점`** 을 통해 '협찬 평점' 아닌 '진짜 평점'을 확인하세요!
 
 <br />
 
@@ -58,9 +58,9 @@
 <br />
 <br />
 
-### <span style="color: #4CC764;">2. 지켜줘요! 동물의 숲🦊
+### ${\textsf{\color{forestgreen}지켜줘요! 동물의 숲🦊}}$
 > **멸종 위기 동물들을 당신은 외울 수 있을 것인가..!**   
-**<span style="color: #4CC764;">크리에이터 챌린지 2등🏆**   
+**${\textsf{\color{forestgreen}크리에이터 챌린지 2등🏆}}$**   
 [**`플레이 하기`**](https://redbrick.land/detail-play?pid=af54812a-71e4-4667-b817-09c0d7ad15eb)
 
 `#자바스크립트` `#게임제작` `#레드브릭` `#크리에이터챌린지`
@@ -69,7 +69,7 @@
 <br />
 <br />
 
-*크리에이터 챌린지?*
+*${\textsf{\color{forestgreen}크리에이터 챌린지?}}$*
 
 - `자바스크립트 + 레드브릭`을 활용한 게임제작 대회
 
@@ -119,6 +119,5 @@
 <br />
 <br />
 
-${\textsf{\color{magenta}test}}$
 
 **SSAFY 내부 약관과 규정에 의거하여 교재 및 코드는 포함되어 있지 않습니다.**
