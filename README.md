@@ -58,21 +58,21 @@ ${\textit{\textsf{\color{orangered}5점인데 왜 이렇게 맛없어?}}}$
 <br />
 <br />
 
-### ${\textsf{\color{limegreen}지켜줘요! 동물의 숲🦊}}$
+### ${\textsf{\color{yellowgreen}지켜줘요! 동물의 숲🦊}}$
 > **멸종 위기 동물들을 당신은 외울 수 있을 것인가..!**   
-**${\textsf{\color{limegreen}크리에이터 챌린지 2등🏆}}$**   <br>   
+**${\textsf{\color{yellowgreen}크리에이터 챌린지 2등🏆}}$**   <br>   
 [**`플레이 하기`**](https://redbrick.land/detail-play?pid=af54812a-71e4-4667-b817-09c0d7ad15eb)
 
 <br />
 
-${\textit{\textsf{\color{limegreen}크리에이터 챌린지?}}}$
+${\textit{\textsf{\color{yellowgreen}크리에이터 챌린지?}}}$
 
 - `자바스크립트 + 레드브릭`을 활용한 게임제작 대회
 
 
 <br />
 
-${\textit{\textsf{\color{limegreen}무슨 게임인가요?}}}$
+${\textit{\textsf{\color{yellowgreen}무슨 게임인가요?}}}$
 
 
 - 멸종위기 동물을 쉽고 재미있게 외우자는 취지에서 제작한 게임입니다.
