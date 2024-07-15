@@ -8,7 +8,8 @@
 
 <div style="text-align: center;">
   <img src="./robot_quest.png" width="50%">
-  <p><em>규정으로 인한 대체 이미지,,,</em></p>
+  <p><em>(규정으로 인한 대체 AI 이미지)<br><br>컬러센서를 이용해서 라인트레이서를 했다.<br>로봇팔을 제어해서 우주 쓰레기도 치웠다. <br> 어려진 기분이 들어 신나는 하루였다.</em></p>
+  
 </div>
 
 <br /><br /><br /><br /><br />
