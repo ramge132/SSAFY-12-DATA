@@ -13,8 +13,8 @@
 <br />
 
 ## Side Projects
-### <span style="color: #DE3163;">1. Cherry Picker
-> **가격비교 & 순수평점**을 통한 고객의 합리적 소비
+### <span style="color: #DE3163;">1. Cherry Picker🍒
+> **가격비교 & 순수평점**을 통한 고객의 합리적 소비   
 **<span style="color: #DE3163;">아이디어톤 1등🏆**
 
 <br />
@@ -42,7 +42,7 @@
     <td align="left" width="50%">
         <video controls autoplay loop src="https://github.com/user-attachments/assets/befae84a-03cb-4c97-b20e-939cb0be74ff" width="100%" muted="false"></video>
         <div style="border: 2px solid #DE3163; padding: 15px; border-radius: 10px; background-color: #f9f9f9; margin-top: 20px; text-align: left;">
-            <p style="font-size: 1.1em; color: #333; text-align: left;">
+            <p style="font-size: 1.1em; color: #333;">
                 <strong>- (Image to Text) 한국어 텍스트 인식 기술 구현 담당</strong> <br>
                 - 캡처된 이미지로부터 텍스트를 추출 <br>
                 - 추출된 텍스트로부터 업체명, 메뉴, 가격 등을 인식 <br>
