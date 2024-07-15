@@ -4,6 +4,12 @@
 
 `#라인트레이싱` `#알고리즘` `#로봇` `#파이썬`
 
+<br />
+
+<div style="text-align: center;">
+  <img src="./robot_quest.png" width="50%">
+  <p><em>규정으로 인한 대체 이미지,,,</em></p>
+</div>
 
 <br /><br /><br /><br /><br />
 
