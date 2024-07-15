@@ -18,19 +18,13 @@
 
 **아이디어톤 1등🏆**
 
-|<img src="./sideProjects/cherrypicker/docs/presentation/all_images.gif" width="60%">|
+|<img src="./sideProjects/cherrypicker/docs/presentation/all_images.gif" width="50%">|
 |---|
-|<iframe width="560" height="315" src="https://www.youtube.com/embed/ID-5doH8Nw4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>|
+|[![Cherry Picker Demo](https://img.youtube.com/vi/ID-5doH8Nw4/0.jpg)](https://www.youtube.com/watch?v=ID-5doH8Nw4)|
 
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ID-5doH8Nw4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 <br />
 <br />
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ID-5doH8Nw4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <br />
 <br />
 <br />
