@@ -20,10 +20,11 @@
 
 |<img src="./sideProjects/cherrypicker/docs/presentation/all_images.gif" width="60%">|
 |---|
-|https://github.com/user-attachments/assets/e4e93a69-4103-46da-8032-04673fdf14ad|
-https://github.com/user-attachments/assets/e4e93a69-4103-46da-8032-04673fdf14ad
+|
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ID-5doH8Nw4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ |
+
 <br />
-https://github.com/user-attachments/assets/e4e93a69-4103-46da-8032-04673fdf14ad
 <br />
 <br />
 <br />
