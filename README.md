@@ -98,12 +98,12 @@
 
 <table align="center">
 <tr>
-    <td align="center" width="70%">
-        <img src="./sideProjects/protectUs!AnimalCrossing/docs/Demo.gif" width="70%">
+    <td align="center" width="90%">
+        <img src="./sideProjects/protectUs!AnimalCrossing/docs/Demo.gif" width="90%">
     </td>
 </tr>
 <tr>
-    <td align="center" width="70%">
+    <td align="center" width="90%">
         <div style="border: 2px solid #4CC764; padding: 15px; border-radius: 10px; background-color: #f9f9f9; margin-top: 20px; text-align: left;">
             <p style="font-size: 1.1em; color: #333;">
                 <strong>- 아이디어 및 SW구현 담당</strong> <br>
