@@ -33,7 +33,7 @@
 <table class="center">
 <tr>
     <td width=50% style="border: none">
-        <video controls autoplay loop src="./sideProjects/cherrypicker/docs/presentation/cherrypicker_demo.mp4" muted="false"></video>
+        <video controls autoplay loop src="https://github.com/user-attachments/assets/befae84a-03cb-4c97-b20e-939cb0be74ff" muted="false"></video>
     </td>
 </tr>
 </table>
