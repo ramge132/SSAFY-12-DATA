@@ -1,16 +1,13 @@
-
 ![img](./docs/logo.png)
 ---
 # SSAFY 12기 데이터 트랙 👨‍💻
  >**삼성 청년 SW 아카데미**
  데이터 트랙 첫 번째 기수
 
-
 <br />
 <br />
 
 ## Projects
-
 
 <br />
 <br />
@@ -21,10 +18,14 @@
 
 **아이디어톤 1등🏆**
 
-|![cherrypicker](./sideProjects/cherrypicker/docs/presentation/all_images.gif)|
+|<img src="./sideProjects/cherrypicker/docs/presentation/all_images.gif" width="60%">|
 |---|
 |https://github.com/user-attachments/assets/6a1ba8d6-182e-4d94-a27e-952007fa8417|
 
+<video width="60%" controls>
+  <source src="./sideProjects/cherrypicker/docs/presentation/cherrypicker_demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
  
 <br />
 <br />
