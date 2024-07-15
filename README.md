@@ -37,7 +37,7 @@
 <table align="center">
 <tr>
     <td align="center" width="50%">
-        <img src="./sideProjects/cherrypicker/docs/presentation/all_images.gif" width="50%">
+        <img src="./sideProjects/cherryPicker/docs/presentation/all_images.gif" width="50%">
     </td>
     <td align="left" width="50%">
         <video controls autoplay loop src="https://github.com/user-attachments/assets/befae84a-03cb-4c97-b20e-939cb0be74ff" width="100%" muted="false"></video>
