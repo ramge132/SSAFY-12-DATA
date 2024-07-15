@@ -19,6 +19,7 @@
 
 <br />
 
+<<<<<<< HEAD
 *어디가 제일 싸지?*
 
 - 배달 음식을 시킬 때, 여러 배달 어플을 들락거리신 경험 있으신가요?
@@ -41,6 +42,7 @@
     <td align="center" width="50%">
         <video controls autoplay loop src="https://github.com/user-attachments/assets/befae84a-03cb-4c97-b20e-939cb0be74ff" width="100%" muted="false"></video>
         <p><br><br><br> - (Image to Text) 한국어 텍스트 인식 기술 구현 담당 <br> - 캡처된 이미지로부터 텍스트를 추출 <br> - 추출된 텍스트로부터 업체명, 메뉴, 메뉴별 가격등을 인식 <br> - 인식된 정보들을 SQL DB에 나누어 저장</p>
+
     </td>
 </tr>
 </table>
