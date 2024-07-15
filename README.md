@@ -91,8 +91,6 @@
 
 <br />
 
-# DEMO
-
 <!--
 |![img](./docs/Demo.gif) |
 |---|
