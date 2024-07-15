@@ -30,25 +30,11 @@
 <br />
 
 # DEMO
-<table align="center">
-<tr>
-    <td align="center" width="100%">
-        <img src="./docs/demo.gif" width="100%">
-    </td>
-</tr>
-<tr>
-    <td align="center" width="100%">
-        <div style="border: 2px solid #4CC764; padding: 15px; border-radius: 10px; background-color: #f9f9f9; margin-top: 20px; text-align: left;">
-            <p style="font-size: 1.1em; color: #333;">
-                <strong>- 아이디어 및 SW구현 담당</strong> <br>
-                - 주제 및 게임 메인 아이디어 구상 <br>
-                - 자바스크립트를 이용하여 게임 로직 구성 <br>
-                - 전반적 모델링, 맵 디자인 담당
-            </p>
-        </div>
-    </td>
-</tr>
-</table>
+
+|![img](./docs/demo.gif) |
+|---|
+| - **아이디어 및 SW구현 담당** <br> - 주제 및 게임 메인 아이디어 구상 <br> - 자바스크립트를 이용하여 게임 로직 구성 <br> - 전반적 모델링, 맵 디자인 담당 |
+
 
 <br />
 <br />
