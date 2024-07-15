@@ -1,22 +1,25 @@
-# ./sideProjects/robot_quest 디렉토리의 특정 파일 제외
-/sideProjects/robot_quest/robot_1.py
-/sideProjects/robot_quest/robot_2.py
-/sideProjects/robot_quest/robot_3.py
-/sideProjects/robot_quest/robot_4.py
-/sideProjects/robot_quest/robot_5.py
-/sideProjects/robot_quest/robot_6.py
-/sideProjects/robot_quest/robot_7.py
-/sideProjects/robot_quest/robot_8.py
-/sideProjects/robot_quest/robot_9.py
-/sideProjects/robot_quest/robot_10.py
-/sideProjects/robot_quest/robot_11.py
-/sideProjects/robot_quest/robot_12.py
-/sideProjects/robot_quest/robot_13.py
-/sideProjects/robot_quest/robot_14.py
-/sideProjects/robot_quest/robot_15.py
-/sideProjects/robot_quest/robot_16.py
-/sideProjects/robot_quest/robot_17.py
-/sideProjects/robot_quest/robot_18.py
-/sideProjects/robot_quest/robot_19.py
-/sideProjects/robot_quest/robot_level1.py
-/sideProjects/robot_quest/robot_level2.py
+# ./sideProjects/robotQuest 파일 제외
+/sideProjects/robotQuest/robot_1.py
+/sideProjects/robotQuest/robot_2.py
+/sideProjects/robotQuest/robot_3.py
+/sideProjects/robotQuest/robot_4.py
+/sideProjects/robotQuest/robot_5.py
+/sideProjects/robotQuest/robot_6.py
+/sideProjects/robotQuest/robot_7.py
+/sideProjects/robotQuest/robot_8.py
+/sideProjects/robotQuest/robot_9.py
+/sideProjects/robotQuest/robot_10.py
+/sideProjects/robotQuest/robot_11.py
+/sideProjects/robotQuest/robot_12.py
+/sideProjects/robotQuest/robot_13.py
+/sideProjects/robotQuest/robot_14.py
+/sideProjects/robotQuest/robot_15.py
+/sideProjects/robotQuest/robot_16.py
+/sideProjects/robotQuest/robot_17.py
+/sideProjects/robotQuest/robot_18.py
+/sideProjects/robotQuest/robot_19.py
+/sideProjects/robotQuest/robot_level1.py
+/sideProjects/robotQuest/robot_level2.py
+
+# ./sideProjects/cherryPicker 파일 제외
+/sideProjects/cherryPicker/cherrypicker.py
