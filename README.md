@@ -18,17 +18,24 @@
 
 **아이디어톤 1등🏆**
 
-|<img src="./sideProjects/cherrypicker/docs/presentation/all_images.gif" width="50%">|
+|<img src="./sideProjects/cherrypicker/docs/presentation/all_images.gif" width="60%">|
 |---|
-|[![Cherry Picker Demo](https://img.youtube.com/vi/ID-5doH8Nw4/0.jpg)](https://www.youtube.com/watch?v=ID-5doH8Nw4)|
+|https://github.com/user-attachments/assets/6a1ba8d6-182e-4d94-a27e-952007fa8417|
 
- 
 <br />
 <br />
 <br />
 <br />
 <br />
 <br />
+
+## Demos
+<table class="center">
+<tr>
+    <td width=50% style="border: none">
+        <video controls autoplay loop src="./sideProjects/cherrypicker/docs/presentation/cherrypicker_demo.mp4" muted="false"></video>
+    </td>
+</tr>
+</table>
 
 **SSAFY 내부 약관과 규정에 의거하여 교재 및 코드는 포함되어 있지 않습니다.**
-side projects\cherrypicker\docs\presentation\cherrypicker_demo.mp4
