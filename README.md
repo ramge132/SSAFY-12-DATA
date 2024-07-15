@@ -45,7 +45,7 @@
             <p style="font-size: 1.1em; color: #333;">
                 <strong>- (Image to Text) 한국어 텍스트 인식 기술 구현 담당</strong> <br>
                 <strong>- 캡처된 이미지로부터 텍스트를 추출</strong> <br>
-                <strong>- 추출된 텍스트로부터 업체명, 메뉴, 메뉴별 가격 등을 인식</strong> <br>
+                <strong>- 추출된 텍스트로부터 업체명, 메뉴, 가격 등을 인식</strong> <br>
                 <strong>- 인식된 정보들을 SQL DB에 나누어 저장</strong>
             </p>
         </div>
