@@ -61,13 +61,9 @@
 ### <span style="color: #4CC764;">2. 지켜줘요! 동물의 숲🦊
 > **멸종 위기 동물들을 당신은 외울 수 있을 것인가..!**   
 **<span style="color: #4CC764;">크리에이터 챌린지 2등🏆**
+[**`플레이 하기`**](https://redbrick.land/detail-play?pid=af54812a-71e4-4667-b817-09c0d7ad15eb)
 
 `#자바스크립트` `#게임제작` `#레드브릭` `#크리에이터챌린지`
-
-<br />
-<br />
-
-[**`'지켜줘요! 동물의 숲' 플레이 하기`**](https://redbrick.land/detail-play?pid=af54812a-71e4-4667-b817-09c0d7ad15eb)
 
 
 <br />
