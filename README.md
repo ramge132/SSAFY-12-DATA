@@ -18,23 +18,22 @@
 
 **아이디어톤 1등🏆**
 
-|<img src="./sideProjects/cherrypicker/docs/presentation/all_images.gif" width="10%">| 동영상 공간 |
-|---|---|
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-## Demos
-<table class="center">
+<table align="center">
 <tr>
-    <td width=50% style="border: none">
-        <video controls autoplay loop src="https://github.com/user-attachments/assets/befae84a-03cb-4c97-b20e-939cb0be74ff" muted="false"></video>
+    <td align="center" width="50%">
+        <img src="./sideProjects/cherrypicker/docs/presentation/all_images.gif" width="80%">
+    </td>
+    <td align="center" width="50%">
+        <video controls autoplay loop src="https://github.com/user-attachments/assets/befae84a-03cb-4c97-b20e-939cb0be74ff" width="80%" muted="false"></video>
     </td>
 </tr>
 </table>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 **SSAFY 내부 약관과 규정에 의거하여 교재 및 코드는 포함되어 있지 않습니다.**
