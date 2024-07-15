@@ -119,6 +119,6 @@
 <br />
 <br />
 
-
+${\textsf{\color{magenta}test}}$
 
 **SSAFY 내부 약관과 규정에 의거하여 교재 및 코드는 포함되어 있지 않습니다.**
