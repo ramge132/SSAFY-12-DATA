@@ -43,8 +43,10 @@ ${\textit{\textsf{\color{orangered}5점인데 왜 이렇게 맛없어?}}}$
 <table align="center">
 <tr>
     <td align="center" width="30%">
-        <img src="./sideProjects/cherryPicker/docs/presentation/all_images.gif" width="50%">
+        <img src="./sideProjects/cherryPicker/docs/presentation/all_images.gif" width="100%">
     </td>
+</tr>
+<tr>
     <td align="left" width="70%">
         <video controls autoplay loop src="https://github.com/user-attachments/assets/befae84a-03cb-4c97-b20e-939cb0be74ff" width="100%" muted="false"></video>
         <div style="border: 2px solid #DE3163; padding: 15px; border-radius: 10px; background-color: #f9f9f9; margin-top: 20px; text-align: left;">
@@ -58,6 +60,7 @@ ${\textit{\textsf{\color{orangered}5점인데 왜 이렇게 맛없어?}}}$
     </td>
 </tr>
 </table>
+
 
 <br />
 <br />
