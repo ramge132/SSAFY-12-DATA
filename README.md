@@ -50,7 +50,7 @@ ${\textit{\textsf{\color{orangered}5점인데 왜 이렇게 맛없어?}}}$
     </td>
 </tr>
 <tr>
-    <td colspan="2" align="left">
+    <td colspan="2" align="center">
         <div style="border: 2px solid #DE3163; padding: 15px; border-radius: 10px; background-color: #f9f9f9; margin-top: 20px;">
             <p style="font-size: 1.1em; color: #333;">
                 <strong>- (Image to Text) 한국어 텍스트 인식 기술 구현 담당</strong> <br>
