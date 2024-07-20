@@ -42,14 +42,16 @@ ${\textit{\textsf{\color{orangered}5점인데 왜 이렇게 맛없어?}}}$
 
 <table align="center">
 <tr>
-    <td align="center" width="30%">
+    <td align="center" width="35%">
         <img src="./sideProjects/cherryPicker/docs/presentation/all_images.gif" width="100%">
+    </td>
+    <td align="center" width="65%">
+        <video controls autoplay loop src="https://github.com/user-attachments/assets/befae84a-03cb-4c97-b20e-939cb0be74ff" width="100%" muted="false"></video>
     </td>
 </tr>
 <tr>
-    <td align="left" width="70%">
-        <video controls autoplay loop src="https://github.com/user-attachments/assets/befae84a-03cb-4c97-b20e-939cb0be74ff" width="100%" muted="false"></video>
-        <div style="border: 2px solid #DE3163; padding: 15px; border-radius: 10px; background-color: #f9f9f9; margin-top: 20px; text-align: left;">
+    <td colspan="2" align="left">
+        <div style="border: 2px solid #DE3163; padding: 15px; border-radius: 10px; background-color: #f9f9f9; margin-top: 20px;">
             <p style="font-size: 1.1em; color: #333;">
                 <strong>- (Image to Text) 한국어 텍스트 인식 기술 구현 담당</strong> <br>
                 - 캡처된 이미지로부터 텍스트를 추출 <br>
@@ -60,6 +62,7 @@ ${\textit{\textsf{\color{orangered}5점인데 왜 이렇게 맛없어?}}}$
     </td>
 </tr>
 </table>
+
 
 
 <br />
