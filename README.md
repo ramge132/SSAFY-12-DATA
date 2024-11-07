@@ -7,6 +7,18 @@
 <br />
 <br />
 
+## Tools
+### SSAFY GIT 매니저
+> 과제 레포 git clone을 한 번에 처리하세요!
+<table align="center">
+<tr>
+    <img src="docs\gitManager_GUI_demo2.gif" width="100%">
+</tr>
+</table>
+
+<br />
+<br />
+
 ## Projects
 
 <br />
