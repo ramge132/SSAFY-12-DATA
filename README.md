@@ -16,6 +16,17 @@
         <img src="docs\gitManager_GUI_demo2.gif" width="90%">
     </td>
 </tr>
+<tr>
+    <td align="center" width="90%">
+        <div style="border: 2px solid #09bbeb; padding: 15px; border-radius: 10px; background-color: #f9f9f9; margin-top: 20px; text-align: left;">
+            <p style="font-size: 1.1em; color: #333;">
+                - 많은 과제 레포들, 일일이 CLONE 하지마세요 <br>
+                - 버튼 클릭 한 번으로 과제를 전부 CLONE! <br>
+                - PUSH 등 기타 기능 포함
+            </p>
+        </div>
+    </td>
+</tr>
 </table>
 
 <br />
