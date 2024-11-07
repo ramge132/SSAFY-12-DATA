@@ -22,13 +22,13 @@ def clear_console():
     os.system('cls' if platform.system() == 'Windows' else 'clear')
 
 def clone_repositories(subject, set_number):
-    base_dir = os.getcwd()
-
+    # 현재 작업 디렉토리를 저장
+    original_dir = os.getcwd()
+    
     if not os.path.exists(subject):
         os.makedirs(subject)
 
-    subject_path = os.path.join(base_dir, subject)
-    os.chdir(subject_path)
+    os.chdir(subject)
     current_folder = os.getcwd()
 
     print(f"{current_folder}으로 clone 하는 중...")
@@ -44,39 +44,34 @@ def clone_repositories(subject, set_number):
         stages = stages_dict[sep]
         for stage in stages:
             folder_name = f"{subject}_{sep}_{set_number}_{stage}"
-            folder_path = os.path.join(subject_path, folder_name)
-            if os.path.exists(folder_path):
+            if os.path.exists(folder_name):
                 print(f"{folder_name}가 이미 존재합니다.")
-                os.chdir(folder_path)
+                os.chdir(folder_name)
                 subprocess.run(['git', 'pull', 'origin', 'master'])
-                os.chdir(subject_path)
+                os.chdir('..')
             else:
                 url = f"https://lab.ssafy.com/taeyoun9/{subject}_{sep}_{set_number}_{stage}"
                 print(f"git clone {url}")
                 subprocess.run(['git', 'clone', url])
+    
+    # 작업이 끝난 후 원래 디렉토리로 돌아감
+    os.chdir(original_dir)
 
-    os.chdir(base_dir)
 
 def push_repositories(subject):
-    base_dir = os.getcwd()
-    subject_path = os.path.join(base_dir, subject)
-    os.chdir(subject_path)
+    os.chdir(subject)
     dir_list = os.listdir()
 
     for dir in dir_list:
-        os.chdir(os.path.join(subject_path, dir))
+        os.chdir(dir)
         subprocess.run(['git', 'add', '.'])
         subprocess.run(['git', 'commit', '-m', f'Update {subject} - {dir}'])
         subprocess.run(['git', 'push', 'origin', 'master'])
-        os.chdir(subject_path)
-
-    os.chdir(base_dir)
+        os.chdir('..')
 
 def delete_git_folder(subject):
-    base_dir = os.getcwd()
-    subject_path = os.path.join(base_dir, subject)
-    if os.path.exists(subject_path):
-        for root, dirs, files in os.walk(subject_path):
+    if os.path.exists(subject):
+        for root, dirs, files in os.walk(subject):
             if '.git' in dirs:
                 git_folder_path = os.path.join(root, '.git')
                 print(f'Trying to delete {git_folder_path} using system command...')
@@ -89,9 +84,8 @@ def delete_git_folder(subject):
         print(f"{subject}폴더가 존재하지 않습니다.")
 
 def copy_subject_folder(subject):
-    base_dir = os.getcwd()
     destination = r"C:\Users\rbfrl\OneDrive\Documents\VSCode\github\SSAFY-12-DATA\TIL"
-    source = os.path.join(base_dir, subject)
+    source = os.path.join(os.getcwd(), subject)
     
     if os.path.exists(source):
         destination_path = os.path.join(destination, subject)
@@ -105,50 +99,38 @@ def copy_subject_folder(subject):
         print(f"{subject}폴더가 존재하지 않습니다.")
 
 def add_upstream(subject):
-    base_dir = os.getcwd()
-    subject_path = os.path.join(base_dir, subject)
-    os.chdir(subject_path)
+    os.chdir(subject)
     dir_list = os.listdir()
     
     for dir in dir_list:
-        os.chdir(os.path.join(subject_path, dir))
+        os.chdir(dir)
         sep = dir.split('_')[1]
         stage = dir.split('_')[-1]
-        repo_url = f"https://lab.ssafy.com/data_track/{subject}_daily_practice/{subject}_{sep}_{set_number}_{stage}"
+        repo_url = f"https://lab.ssafy.com/data_track/{subject}_daily_practice/{subject}_{sep}_{stage}"
         result = subprocess.run(['git', 'remote', 'add', 'upstream', repo_url], capture_output=True)
         if result.returncode == 0:
             print(f"{dir}에 upstream remote를 성공적으로 추가했습니다.")
         else:
             print(f"{dir}에 upstream remote를 추가하는데 실패했습니다. {result.stderr.decode()}")
-        os.chdir(subject_path)
-
-    os.chdir(base_dir)
+        os.chdir('..')
 
 def pull_upstream(subject):
-    base_dir = os.getcwd()
-    subject_path = os.path.join(base_dir, subject)
-    os.chdir(subject_path)
+    os.chdir(subject)
     dir_list = os.listdir()
     
     for dir in dir_list:
-        os.chdir(os.path.join(subject_path, dir))
+        os.chdir(dir)
         subprocess.run(['git', 'pull', 'upstream', 'master'])
-        os.chdir(subject_path)
-
-    os.chdir(base_dir)
+        os.chdir('..')
 
 def create_develop_branch(subject):
-    base_dir = os.getcwd()
-    subject_path = os.path.join(base_dir, subject)
-    os.chdir(subject_path)
+    os.chdir(subject)
     dir_list = os.listdir()
     
     for dir in dir_list:
-        os.chdir(os.path.join(subject_path, dir))
+        os.chdir(dir)
         subprocess.run(['git', 'checkout', '-b', 'develop'])
-        os.chdir(subject_path)
-
-    os.chdir(base_dir)
+        os.chdir('..')
 
 if __name__ == "__main__":
     while True:
@@ -161,9 +143,9 @@ if __name__ == "__main__":
         print("##       D: Delete .git folders automatically         ##")
         print("##       P: Push to lab.ssafy automatically           ##")
         print("##       S: SSAFY github management(Personal)         ##")
-        print("##       R: Remote add upstream to repositories       ##")
+        print("##       R: Add upstream remote to repositories       ##")
         print("##       U: Pull updates from upstream repositories   ##")
-        print("##       B: Branch 'develop' creation in repositories ##")
+        print("##       B: Create develop branch in repositories     ##")
         print("##       X: Exit the program                          ##")
         print("##                                                    ##")
         print("##                        Made by taeyeong(ramge132)  ##")
@@ -200,3 +182,4 @@ if __name__ == "__main__":
             print("잘못된 입력입니다. 'C', 'P', 'D', 'S', 'R', 'U', 'B' 또는 'X'를 입력해 주세요.")
         
         input("\n계속하려면 아무 키나 누르세요...")
+
