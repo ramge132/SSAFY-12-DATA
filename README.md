@@ -12,7 +12,9 @@
 > 과제 레포 git clone을 한 번에 처리하세요!
 <table align="center">
 <tr>
-    <img src="docs\gitManager_GUI_demo2.gif" width="100%">
+    <td align="center" width="90%">
+        <img src="docs\gitManager_GUI_demo2.gif" width="90%">
+    </td>
 </tr>
 </table>
 
